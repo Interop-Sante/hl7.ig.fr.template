@@ -1,0 +1,15 @@
+﻿{
+  "package-id": "hl7.fhir.fr.template",
+  "title": "Base template for France FHIR IGs",
+  "canonical": "https://github.com/HL7France/fr-ig-template",
+  "introduction": "This is the basic template",
+  "list": [
+    {
+      "version": "current",
+      "desc": "Continuous Integration Build (latest in version control)",
+      "path": "https://github.com/HL7France/fr-ig-template",
+      "status": "ci-build",
+      "current": true
+    }
+  ]
+}
