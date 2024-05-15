@@ -1,9 +1,9 @@
 ﻿{
-  "name": "fhir.base.template",
+  "name": "hl7.fhir.fr.template",
   "type": "fhir.template",
   "license": "CC0-1.0",
   "description": "FHIR IG Base Template - foundational for use by anyone",
   "author": "http://hl7.org/fhir",
-  "canonical": "http://fhir.org/templates/fhir.base.template",
+  "canonical": "https://github.com/Interop-Sante/hl7.ig.fr.template",
   "version": "0.2.2"
 }
