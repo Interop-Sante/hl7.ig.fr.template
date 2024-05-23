@@ -4,7 +4,7 @@
   "license" : "CC0-1.0",
   "description" : "HL7 France FHIR Template",
   "author" : "https://www.interopsante.org",
-  "canonical" : "https://github.com/HL7France/fr-ig-template",
+  "canonical" : "https://github.com/Interop-Sante/hl7.ig.fr.template",
   "base" : "fhir.base.template",
   "dependencies" : {
     "fhir.base.template" : "current"
