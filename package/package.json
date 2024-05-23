@@ -1,9 +1,13 @@
 ﻿{
-  "name": "fhir.base.template",
-  "type": "fhir.template",
-  "license": "CC0-1.0",
-  "description": "FHIR IG Base Template - foundational for use by anyone",
-  "author": "http://hl7.org/fhir",
-  "canonical": "http://fhir.org/templates/fhir.base.template",
-  "version": "0.2.2"
+  "name" : "hl7.fhir.fr.template",
+  "type" : "fhir.template",
+  "license" : "CC0-1.0",
+  "description" : "HL7 France FHIR Template",
+  "author" : "https://www.interopsante.org",
+  "canonical" : "https://github.com/HL7France/fr-ig-template",
+  "base" : "fhir.base.template",
+  "dependencies" : {
+    "fhir.base.template" : "current"
+  },
+  "version" : "0.1.0"
 }
