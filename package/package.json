@@ -5,9 +5,9 @@
   "description" : "HL7 France FHIR Template",
   "author" : "https://www.interopsante.org",
   "canonical" : "https://github.com/Interop-Sante/hl7.ig.fr.template",
-  "base" : "fhir.base.template",
+  "base" : "hl7.fhir.template",
   "dependencies" : {
-    "fhir.base.template" : "current"
+    "hl7.fhir.template" : "current"
   },
   "version" : "0.1.0"
 }
